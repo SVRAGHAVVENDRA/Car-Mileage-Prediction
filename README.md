@@ -40,4 +40,4 @@ We split the dataset into training (70%) and test (30%) sets, using the training
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SVRAGHAVVENDRA/Car-Mileage-Prediction.git
